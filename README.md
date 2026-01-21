@@ -77,7 +77,7 @@ This stack reflects real-world analyst workflows used in consulting, analytics t
 
 ### Page 1: Enrollment Overview
 
-![Dashboard Page 1](Page1.png)
+![Dashboard Page 1](Page1.jpg)
 
 **What it shows:**
 
@@ -106,7 +106,7 @@ Helps policymakers track performance and allocate resources regionally.
 
 ### Page 2: Child vs Adult State Analysis
 
-![Dashboard Page 2](Page2.png)
+![Dashboard Page 2](Page2.jpg)
 
 **What it shows:**
 
@@ -130,7 +130,7 @@ Can guide targeted campaigns for adult enrollment improvement.
 
 ### Page 3: Risk & Load Analysis
 
-![Dashboard Page 3](Page3.png)
+![Dashboard Page 3](Page3.jpg)
 
 **What it shows:**
 
@@ -156,7 +156,7 @@ Supports operational prioritization and intervention planning.
 
 ### Page 4: Bottom 100 District Enrollment Gap
 
-![Dashboard Page 4](Page4.png)
+![Dashboard Page 4](Page4.jpg)
 
 **What it shows:**
 
@@ -180,7 +180,7 @@ Direct input for corrective administrative action.
 
 ### Page 5: Critical District Map Analysis
 
-![Dashboard Page 5](Page5.png)
+![Dashboard Page 5](Page5.jpg)
 
 **What it shows:**
 
@@ -252,9 +252,12 @@ Aadhaar-Enrollment-Dashboard/
 ```
 ## 👤 Author
 
-**Aditya Kumar Dwivedi**
-*Aspiring Data Analyst | Power BI | SQL | Data Storytelling*
-*Patna, India*
+**Aditya Kumar Dwivedi**  
+Aspiring Data Analyst | Power BI | SQL | Data Storytelling  
+📍 Patna, India  
+
+🔗 LinkedIn: Let's Connect(www.linkedin.com/in/dwivediaditya4093)  
+📧 Email: mailto:dwivediaditya2322006@gmail.com  
 
 ---
 
