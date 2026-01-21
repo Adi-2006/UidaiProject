@@ -77,7 +77,7 @@ This stack reflects real-world analyst workflows used in consulting, analytics t
 
 ### Page 1: Enrollment Overview
 
-![Dashboard Page 1](images/page1.png)
+![Dashboard Page 1](Page1.png)
 
 **What it shows:**
 
@@ -106,7 +106,7 @@ Helps policymakers track performance and allocate resources regionally.
 
 ### Page 2: Child vs Adult State Analysis
 
-![Dashboard Page 2](images/page2.png)
+![Dashboard Page 2](Page2.png)
 
 **What it shows:**
 
@@ -130,7 +130,7 @@ Can guide targeted campaigns for adult enrollment improvement.
 
 ### Page 3: Risk & Load Analysis
 
-![Dashboard Page 3](images/page3.png)
+![Dashboard Page 3](Page3.png)
 
 **What it shows:**
 
@@ -156,7 +156,7 @@ Supports operational prioritization and intervention planning.
 
 ### Page 4: Bottom 100 District Enrollment Gap
 
-![Dashboard Page 4](images/page4.png)
+![Dashboard Page 4](Page4.png)
 
 **What it shows:**
 
@@ -180,7 +180,7 @@ Direct input for corrective administrative action.
 
 ### Page 5: Critical District Map Analysis
 
-![Dashboard Page 5](images/page5.png)
+![Dashboard Page 5](Page5.png)
 
 **What it shows:**
 
@@ -239,49 +239,22 @@ It demonstrates ability to:
 Aadhaar-Enrollment-Dashboard/
 │
 ├── README.md
-├── dataset/
-│   └── aadhaar_enrollment_raw.csv
 │
-├── dashboard/
-│   └── Aadhaar_Dashboard.pbix
+├── Aadhaar_Dashboard.pbix
+│    
+│──── page1.png
+│──── page2.png
+│──── page3.png
+│──── page4.png
+│──── page5.png
 │
-├── images/
-│   ├── page1.png
-│   ├── page2.png
-│   ├── page3.png
-│   ├── page4.png
-│   └── page5.png
-│
-├── dax/
-│   └── key_measures.md
-```
-
----
-
-## 🖼️ How to Add Images in GitHub README
-
-Once you upload dashboard screenshots to the `/images` folder, use this format inside README.md:
 
 ```
-![Dashboard Page 1](images/page1.png)
-![Dashboard Page 2](images/page2.png)
-```
-
-This ensures your visuals render cleanly on GitHub.
-
----
-
 ## 👤 Author
 
 **Aditya Kumar Dwivedi**
-Aspiring Data Analyst | Power BI | SQL | Data Storytelling
-Patna, India
+*Aspiring Data Analyst | Power BI | SQL | Data Storytelling*
+*Patna, India*
 
 ---
 
-If you'd like, I can also help you with:
-
-* ATS-optimized resume bullets
-* LinkedIn project description
-* Recruiter pitch message
-* Power BI interview questions from this project
