@@ -77,7 +77,7 @@ This stack reflects real-world analyst workflows used in consulting, analytics t
 
 ### Page 1: Enrollment Overview
 
-![Dashboard Page 1]("Page 1.jpg")
+![Dashboard Page 1](Page%201.jpg)
 
 **What it shows:**
 
