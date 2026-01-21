@@ -106,7 +106,7 @@ Helps policymakers track performance and allocate resources regionally.
 
 ### Page 2: Child vs Adult State Analysis
 
-![Dashboard Page 2](Page2.jpg)
+![Dashboard Page 2](Page%202.jpg)
 
 **What it shows:**
 
@@ -130,7 +130,7 @@ Can guide targeted campaigns for adult enrollment improvement.
 
 ### Page 3: Risk & Load Analysis
 
-![Dashboard Page 3](Page3.jpg)
+![Dashboard Page 3](Page%203.jpg)
 
 **What it shows:**
 
@@ -156,7 +156,7 @@ Supports operational prioritization and intervention planning.
 
 ### Page 4: Bottom 100 District Enrollment Gap
 
-![Dashboard Page 4](Page4.jpg)
+![Dashboard Page 4](Page%204.jpg)
 
 **What it shows:**
 
@@ -180,7 +180,7 @@ Direct input for corrective administrative action.
 
 ### Page 5: Critical District Map Analysis
 
-![Dashboard Page 5](Page5.jpg)
+![Dashboard Page 5](Page%205.jpg)
 
 **What it shows:**
 
@@ -242,11 +242,11 @@ Aadhaar-Enrollment-Dashboard/
 │
 ├── Aadhaar_Dashboard.pbix
 │    
-│──── page1.png
-│──── page2.png
-│──── page3.png
-│──── page4.png
-│──── page5.png
+│─── page1.png
+│─── page2.png
+│─── page3.png
+│─── page4.png
+│─── page5.png
 │
 
 ```
@@ -256,8 +256,10 @@ Aadhaar-Enrollment-Dashboard/
 Aspiring Data Analyst | Power BI | SQL | Data Storytelling  
 📍 Patna, India  
 
-🔗 LinkedIn: Let's Connect(www.linkedin.com/in/dwivediaditya4093)  
-📧 Email: mailto:dwivediaditya2322006@gmail.com  
+🔗 LinkedIn: [Let's Connect](https://www.linkedin.com/in/dwivediaditya4093)  
+📧 Email: [dwivediaditya2322006@gmail.com](mailto:dwivediaditya2322006@gmail.com)
+
+💬 I’d love to hear your feedback and suggestions!
 
 ---
 
