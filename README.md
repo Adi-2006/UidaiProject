@@ -204,11 +204,17 @@ Helps with infrastructure planning and regional deployment.
 ## 📌 Detailed Analyst-Level Insights
 
 ✔ Strong regional skew: Northern states dominate volume
+
 ✔ High child-to-adult imbalance suggests campaign bias
+
 ✔ Enrollment spikes between August–November indicate seasonal drives
+
 ✔ Multiple districts reporting extremely low values signal operational breakdown
+
 ✔ Risk index highlights systemic stress across most states
+
 ✔ Geographic clustering indicates access inequality
+
 ✔ Larger states drive numbers, but smaller states show efficiency gaps
 
 These are **not visual observations**, but analytical findings relevant to real decision-making.
